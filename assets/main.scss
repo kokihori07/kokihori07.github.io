@@ -4,9 +4,30 @@
 
 @import "minima";
 
+a{
+    text-decoration: none!important;
+}
+
+
+//Profile css
+
+.page-content{
+  background-color: #8fbc8f;
+}
+
+.col-md-8{
+  text-align: center;
+
+ img{
+  max-width: 60%;
+  vertical-align: middle;
+ } 
+
+}
+
 
 .site-title {
-    @include relative-font-size(2.625);
+    @include relative-font-size(1.8);
     font-weight: 300;
     line-height: $base-line-height * $base-font-size * 2.25;
     letter-spacing: -1px;
@@ -18,3 +39,78 @@
       color: $grey-color-dark;
     }
   }
+
+
+  //About css
+
+
+
+  //contact
+
+
+  .btn-flat-logo {
+  position: relative;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  color: #FFF;
+  background: #00bcd4;
+  transition: .4s;
+  font-size: 40px;
+}
+
+.btn-flat-logo:hover {
+  background: #1ec7bb;
+}
+
+
+
+
+.btn-animation-02 {
+  display: inline-block;
+  width: 270px;
+  text-align: center;
+  background-color: #9ec34b;
+  border: 2px solid #9ec34b;
+  font-size: 30px;
+  color: #9ec34b;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 10px 24px;
+  border-radius: 4px;
+  position: relative;
+}
+
+.btn-animation-02 span {
+  position: relative;
+  z-index: 1;
+}
+
+.btn-animation-02::before,
+.btn-animation-02::after {
+  content: "";
+  display: block;
+  background-color: #FFF;
+  width: 50%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  transition: .2s;
+}
+.btn-animation-02::before {
+  left: 0;
+}
+.btn-animation-02::after {
+  right: 0;
+}
+
+.btn-animation-02:hover:before,
+.btn-animation-02:hover:after {
+  width: 0;
+  background-color: #FFF;
+}
+
+.btn-animation-02:hover {
+  color: #FFF;
+}
