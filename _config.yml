@@ -30,6 +30,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: suketti7_magic
 # github_username:  jekyll
 
+header_pages:
+  - index.markdown
+  - plan.markdown
+  - Gallery.markdown
+  - Contact.markdown
+
+
 # Build settings
 theme: minima
 plugins:

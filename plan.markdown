@@ -16,9 +16,20 @@ permalink: /plan/
 #### 最大30名くらいまでクロースアップマジックをご覧いただけます。
 <br>
 
-## **・テーブルホップマジック(Table-op-Magic)**
+## **・テーブルホップマジック(Table-hop-Magic)**
 <div class="table-hop">
-<img class="close-up" src="../uploads/album/イオンモール3.jpg">
-<img class="close-up2" src="../images/S__58105866.png">
+<img class="close-up" src="../images/Tablehopimg.png">
 </div>
 <br>
+
+#### 各テーブルや場所にマジシャンが廻って演技をします。
+#### 大きい会場でも**至近距離**でマジックを観たい方におススメです。
+#### 時間はお客様のご都合に合わせますが、1〜2時間で廻れる範囲であれば対応可能です!
+<br>
+
+## **・サロンマジック(Salon-Magic)**
+<img class="close-up2" src="../images/salon.png"><br>
+
+#### 大人数で一緒に楽しめるスタイルです。 ステージに上がって頂きマジシャン目線で楽しむこともできます。
+#### 最大200名ほどまで対応可能で一体感の生まれるショーとなります。
+#### また、<span style="color: red; ">幼稚園や小学生など小さいお子様も喜んでもらえる</span>ショーになっています。　テーブルホップマジックとの組み合わせが人気です。
