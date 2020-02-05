@@ -4,7 +4,6 @@
 
 layout: home
 title: Profile
-# image: ../assets/images/IMG_7109.jpeg
 profile_title: Magician すけっち
 # list_title: List title
 ---
