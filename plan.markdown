@@ -12,7 +12,7 @@ permalink: /plan/
 <br>
 
 ## **・クロースアップマジック(Close-up-Magic)**
-<img class="close-up" src="../images/S__58105867.jpg"><br>
+<img class="close-up" src="../images/S__58105867_2.jpg"><br>
 <br>
 
 #### マジックの中で最も至近距離で楽しめるマジックです。カードやコインなどの道具を使ってお客様とコミュニケーションをとりながら楽しんでいただけます。<span style="color: red; ">観客参加型</span>になるので思い出作りにも最適です。
