@@ -27,7 +27,7 @@ permalink: /plan/
 #### 時間はお客様のご都合に合わせますが、1〜2時間で廻れる範囲であれば対応可能です!
 
 ## **・サロンマジック(Salon-Magic)**
-<img class="close-up2" src="../images/salon.png"><br>
+<img class="close-up2" src="../images/salon2.jpg"><br>
 
 #### 大人数で一緒に楽しめるスタイルです。 ステージに上がって頂きマジシャン目線で楽しむこともできます。
 #### 最大200名ほどまで対応可能で一体感の生まれるショーとなります。
