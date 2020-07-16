@@ -4,12 +4,12 @@
 
 layout: home
 title: Profile
-profile_title: Magician すけっち
+profile_title: 
 # list_title: List title
 ---
 
 ### **何気ない日常に "魔法の時間" を**<br>
-### 福岡を拠点に活動するマジシャン**『すけっち』**目の前30cmの距離で魅せるクロースアップマジックを得意とする。<br>まったりとした雰囲気の中で生み出される不思議をぜひお楽しみください。
+### 福岡を拠点に活動するパフォーマー**『すけっち』**目の前30cmの距離で魅せるクロースアップマジックや人の心を操るようなメンタリズムを得意とする。<br>まったりとした雰囲気の中で生み出される不思議をぜひお楽しみください。
 <img class="Profile-img" src="../assets/images/IMG_71.jpg">
 <br>
 <br>
