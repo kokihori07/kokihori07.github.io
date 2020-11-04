@@ -11,6 +11,7 @@ permalink: /plan/
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSczOn9ij_jjLe-g-M388obvXedEwFoD92fltsy7Amn8VyjsVA/viewform?usp=sf_link" class="btn-animation-02" target="blank"><span>問い合わせフォーム<span>
 <br>
 
+
 ## **・クロースアップメンタリズム/マジック(Close-up-Mentalism/Magic)**
 <img class="close-up" src="../images/S__58105867_2.jpg"><br>
 <br>

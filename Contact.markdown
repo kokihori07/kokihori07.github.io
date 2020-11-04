@@ -8,6 +8,7 @@ permalink: /contact/
 
 ### 以下のボタンをクリックするとフォームが開きます。<br>
 
+
 <!-- ## [Contact][contact-form]
 
 [contact-form]: https://forms.gle/ciN5C1mgAgLgvQ5P6 -->
