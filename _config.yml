@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title:  すけっち Magician(マジシャン) | Mentalist(メンタリスト)
+title:  Hori Koki(すけっち) Mentalist(メンタリスト) | Magician(マジシャン)
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: suketti7_magic
-instagram_username: suketti7
+twitter_username: HoriKoki_
+instagram_username: horikoki_
 # github_username:  jekyll
 
 header_pages:
