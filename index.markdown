@@ -14,7 +14,7 @@ profile_title:
 <br>
 
 ### **Performer Hori Koki(すけっち)Youtube**<br>
-<a href="https://www.youtube.com/channel/UCorrq0nmicDmOTEV7j1qfTA?view_as=subscriber" target="_blank"><img class="Youtube-img" src="../assets/images/yt_logo_rgb_dark.png"></a>
+<a href="https://www.youtube.com/channel/UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1" target="_blank"><img class="Youtube-img" src="../assets/images/yt_logo_rgb_dark.png"></a>
 
 **ライブパフォーマンスや特別なコンテンツを投稿予定**<br>
 **どうぞご登録ください！**<br>
