@@ -6,6 +6,7 @@ layout: home
 title: Profile
 profile_title: 
 # list_title: List title
+image: "../assets/images/IMG_71.jpg"
 ---
 ### 福岡(Fukuoka)を拠点に活動するパフォーマー**『Hori Koki』**メンタリスト | 奇術師 <br><br>人の”**心**”に焦点をあてて考えを読んだり操るような<br>メンタリズム(Mentalism) / イリュージョン(Illusion)パフォーマンスを得意とする。<br><br>”ロンブー田村淳”さん"ゴリけん"さんも驚かせた日本では珍しい<br>最高のメンタリズムパフォーマンスをぜひお楽しみください。
 
