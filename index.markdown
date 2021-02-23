@@ -18,7 +18,7 @@ image: "../assets/images/IMG_71.jpg"
 **・あなたも人の考えを読めるようになるかも!?**<br>
 **・日本唯一?の"心"が揺れる不思議な体験**
 #### 詳細は画像をタップ!<br>
-<a href="https://form.run/@MentalismSession" target="_blank"><img class="OnlineMentalism" src="../assets/images/OnlineMentalism.png"></a>
+<a href="https://form.run/@MentalismSession" target="_blank"><img class="OnlineMentalism" src="../assets/images/OnlineMentalism.jpg"></a>
 <br><br>
 
 ### **Performer 『Hori Koki』Youtube**<br>
