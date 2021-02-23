@@ -27,7 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HoriKoki_
 instagram_username: horikoki_
 # github_username:  jekyll
+# youtube_username: UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1
 
+twitter:
+  username: HoriKoki_
+  card: summary
+
+logo: "./assets/images/IMG_71.jpg"
 
 header_pages:
   - index.markdown
@@ -40,6 +46,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
