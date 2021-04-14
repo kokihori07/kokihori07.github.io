@@ -4,7 +4,7 @@
 
 layout: home
 title: 
-profile_title:
+# profile_title:
 # list_title: List title
 image: "../assets/images/IMG_71.jpg"
 ---
