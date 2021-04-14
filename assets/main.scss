@@ -16,10 +16,19 @@ a{
 }
 
 .Profile-img{
-  width:45%;
+width:40%;
+max-width: 100%;
+height: auto;
 }
 .RKB-img{
-  width: 40%;
+width:50%;
+max-width: 100%;
+height: auto;
+}
+.KBC-img{
+  width:50%;
+max-width: 100%;
+height: auto;
 }
 .Youtube-img{
   width:50%;
@@ -31,7 +40,7 @@ a{
   margin: -1.5% 0% -1% 0em;
 }
 .OnlineMentalism{
-  width:50%;
+  width:60%;
   object-fit: cover;
   /* top: -330px; */
   position: relative;

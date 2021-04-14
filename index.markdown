@@ -3,14 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Profile
-profile_title: 
+title: 
+profile_title:
 # list_title: List title
 image: "../assets/images/IMG_71.jpg"
 ---
-### 福岡(Fukuoka)を拠点に活動するパフォーマー**『Hori Koki』**ライブメンタリスト | 奇術師 <br><br>人の”**心**”に焦点をあてて考えを読んだり操るような<br>メンタリズム(Mentalism) / イリュージョン(Illusion)パフォーマンスを得意とする。<br><br>”ロンブー田村淳”さん"ゴリけん"さんも驚かせた日本では珍しい<br>最高のメンタリズムパフォーマンスをぜひお楽しみください。
-
-<br>
+## Profile
+### 福岡(Fukuoka)から世界へ<br>**『Hori Koki ホリ コウキ』**<br>Liveメンタリスト | メンタリズムパフォーマー <br><br>人の”**心**”に焦点をあてて考えを読んだり操るような<br>メンタリズム(Mentalism) / イリュージョン(Illusion)パフォーマンスを得意とする。<br><br>”ロンブー田村淳”さんやゴリけんさんも驚かせた最高のメンタリズムパフォーマンスをぜひお楽しみください。
 
 ### **田村淳さんをリモートで驚かせた "オンラインメンタリズム" 体験してみませんか!?**<br>
 
@@ -24,7 +23,7 @@ image: "../assets/images/IMG_71.jpg"
 ### **Performer 『Hori Koki』Youtube**<br>
 <a href="https://www.youtube.com/channel/UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1" target="_blank"><img class="Youtube-img" src="../assets/images/yt_logo_rgb_dark.png"></a>
 
-**ライブパフォーマンスや特別なコンテンツを投稿予定**<br>
+**ここだけのライブパフォーマンスや特別なコンテンツ**<br>
 **どうぞご登録ください！**<br>
 <br>
 <img class="Profile-img" src="../assets/images/IMG_71.jpg">
@@ -36,10 +35,12 @@ image: "../assets/images/IMG_71.jpg"
 <img class="RKB-img" src="../images/rkb.jpeg"><br>
 
 ### ・KBC ドォーモ 『ロンプク☆淳』メンタリストとして出演
+<img class="KBC-img" src="../images/KBC1.jpeg"><br>
+<img class="KBC-img" src="../images/KBC2.jpeg"><br>
 
 ### ・博多 由布院・武雄温泉 万葉の湯
 ### ・天神夏祭り
 ### ・超にんにくフェス
 ### ・その他多数のイベントに出演
 
-<a class="twitter-timeline" data-width="500" data-height="600" data-theme="dark" data-chrome="noheader" href="https://twitter.com/HoriKoki_">Tweets by Hori Koki_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="500" data-height="550" data-theme="dark" data-chrome="noheader" href="https://twitter.com/HoriKoki_">Tweets by Hori Koki_</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
