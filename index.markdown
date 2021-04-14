@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: 
-# profile_title:
+# title: 
+profile_title: 
 # list_title: List title
 image: "../assets/images/IMG_71.jpg"
 ---
