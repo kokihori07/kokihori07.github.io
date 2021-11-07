@@ -8,7 +8,10 @@ permalink: /plan/
 ### **◇Price ¥15,000〜** （内容や時間に応じて可変）
 #### 時間は30分〜1時間を基本として柔軟に対応可能です。
 ## ご依頼、質問などお気軽にお問い合わせください！
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSczOn9ij_jjLe-g-M388obvXedEwFoD92fltsy7Amn8VyjsVA/viewform?usp=sf_link" class="btn-animation-02" target="blank"><span>問い合わせフォーム<span>
+
+<div class="center-text">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSczOn9ij_jjLe-g-M388obvXedEwFoD92fltsy7Amn8VyjsVA/viewform?usp=sf_link" class="btn-animation-02" target="blank"><span>問い合わせフォーム</span> </a>
+</div>
 <br>
 
 

@@ -3,16 +3,79 @@
 ---
 
 @import "minima";
+@import url('https://cdn.jsdelivr.net/npm/bulma@0.8.2/css/bulma.min.css');
 
 a{
     text-decoration: none!important;
 }
 
 
+#hero {
+  background: rgb(0, 0, 0);
+  background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
+  min-height: 93.2vh;
+  &::before {
+      z-index: 1;
+      filter: blur(0.11rem);
+      background-image: url({{site.heroimage}});
+      background-position: 60% 4%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      top: 0%;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      position: absolute;
+      opacity: 0.25;
+      content: "";
+  }
+}
+
+header {
+  z-index: 3;
+}
 //Profile css
 
 .page-content{
-  background-color: #8fbc8f;
+  // background-color: #8fbc8f;
+  background-color: white;
+  font-family: "Noto Sans JP", Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #666;
+  // text-align: justify;
+}
+
+.center-text {
+  text-align: center;
+}
+
+.page-content strong {
+  color: #666;
+}
+
+.page-content h1 {
+  font-size: 24pt;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.page-content h2 {
+  font-size: 24pt;
+  text-align: center;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.page-content h3 {
+  font-size: 20pt;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 .Profile-img{

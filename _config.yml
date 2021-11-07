@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 『Hori Koki』Live Mentalist(ライブメンタリスト) |  Illusionist(奇術師) 
+title: Mentalist Koki Hori 
 # email: your-email@example.com 
 # this means to ignore newlines until "baseurl:"
 description: ライブメンタリスト(Live Mentalist) | マジシャン 『Hori Koki』ホリ コウキ 福岡を拠点に活動 Fukuoka Live Mentalist | Magician | Illusionist 【出演】各種イベント RKB今日感TV 万葉の湯など多数【パフォーマンス依頼】日本唯一のオンラインメンタリズム体験 イベント出張 HPのContactからどうぞ！
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://horikoki.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: HoriKoki_
-instagram_username: horikoki_
+instagram_username: koki_mentalism_jp
 # github_username:  jekyll
 # youtube_username: UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1
-
+heroimage: "./images/profile2.jpg"
 twitter:
   username: HoriKoki_
   card: summary
