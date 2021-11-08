@@ -29,7 +29,7 @@ is_index: true
 ### **Performer 『Hori Koki』Youtube**<br>
 <!-- <a href="https://www.youtube.com/channel/UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1" target="_blank"><img class="Youtube-img" src="../assets/images/yt_logo_rgb_dark.png"></a> -->
 <div class="center-text">
-<!-- <iframe 
+<iframe 
 src="https://www.youtube.com/embed/Wg-3vVNBOSw
 ?loop=1
 &autoplay=0
@@ -37,7 +37,7 @@ src="https://www.youtube.com/embed/Wg-3vVNBOSw
 &rel=0
 &modestbranding=1"
 frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
 <br>
 <strong>ここだけのライブパフォーマンスや特別なコンテンツ</strong><br>
 <strong>どうぞご登録ください！</strong><br>
