@@ -4,13 +4,13 @@
 
 layout: home
 # title: 
-profile_title: 
+# profile_title: 
 # list_title: List title
 image: "../assets/images/IMG_71.jpg"
 is_index: true
 ---
 
-<!-- ## Profile -->
+## Profile
 
 <div class="center-text">福岡から世界へ<br><strong>『Hori Koki ホリ コウキ』</strong><br>メンタリスト  メンタリズムパフォーマー </div>
 <br>人の”**心**”に焦点をあてて考えを読んだり操るような<br>メンタリズム(Mentalism) / イリュージョン(Illusion)パフォーマンスを得意とする。<br><br>”ロンブー田村淳”さんやゴリけんさんも驚かせた最高のメンタリズムパフォーマンスをぜひお楽しみください。
