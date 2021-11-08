@@ -16,7 +16,7 @@ a{
   background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
   background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
-  min-height: 93.2vh;
+  min-height: 92.2vh;
   &::before {
       z-index: 1;
       filter: blur(0.11rem);
@@ -24,7 +24,7 @@ a{
       background-position: 60% 4%;
       background-repeat: no-repeat;
       background-size: cover;
-      background-attachment: local;
+      background-attachment: revert;
       top: 1.5rem;
       right: 0px;
       bottom: 0px;
