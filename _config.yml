@@ -1,9 +1,10 @@
 # Site settings
 title: Mentalist Koki Hori
-email: your-email@domain.com
+# email: your-email@domain.com
 url: "http://horikoki.com"
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "mind mysteries"
+description: ライブメンタリスト(Live Mentalist) | マジシャン 『Hori Koki』ホリ コウキ 福岡を拠点に活動 Fukuoka Live Mentalist | Magician | Illusionist 【出演】各種イベント RKB今日感TV 万葉の湯など多数【パフォーマンス依頼】日本唯一のオンラインメンタリズム体験 イベント出張 HPのContactからどうぞ！
+baseurl: ""
+keywords: "mind mysteries, mentalism, Fukuoka, Japan, Hori Koki"
 skills: "日本最年少メンタリスト | メンタリズムパフォーマー<br>The Youngest Mentalist in Japan | Mentalism Performer"
 meta_author: Hori Koki
 
