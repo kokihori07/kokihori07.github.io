@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 1
+date: 2021-11-2
+img: pexels-luca-dross-5976404.jpg
+alt: image-alt
+project-date: 2021/11
+blog-title: ホームページリニューアル
+category: ブログ
+# description: 
+---
+## ホームページリニューアル
+<!-- ![フクロウ](https://notepm.jp/assets/img/apple-touch-icon-120x120.png) -->
+ホームページをリニューアルしました。

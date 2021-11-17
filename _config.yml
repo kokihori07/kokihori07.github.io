@@ -1,70 +1,75 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+title: Mentalist Koki Hori
+email: your-email@domain.com
+url: "http://horikoki.com"
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "mind mysteries"
+skills: "日本最年少メンタリスト | メンタリズムパフォーマー<br>The Youngest Mentalist in Japan | Mentalism Performer"
+meta_author: Hori Koki
 
-title: Mentalist Koki Hori 
-# email: your-email@example.com 
-# this means to ignore newlines until "baseurl:"
-description: ライブメンタリスト(Live Mentalist) | マジシャン 『Hori Koki』ホリ コウキ 福岡を拠点に活動 Fukuoka Live Mentalist | Magician | Illusionist 【出演】各種イベント RKB今日感TV 万葉の湯など多数【パフォーマンス依頼】日本唯一のオンラインメンタリズム体験 イベント出張 HPのContactからどうぞ！
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://horikoki.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: HoriKoki_
-instagram_username: koki_mentalism_jp
-# github_username:  jekyll
-# youtube_username: UCorrq0nmicDmOTEV7j1qfTA?sub_confirmation=1
-heroimage: "./images/profile2.jpg"
-twitter:
-  username: HoriKoki_
-  card: summary
+# Google webmaster tools
+google_verify:
 
-logo: "./assets/images/IMG_71.jpg"
-image: "./assets/images/IMG_71.jpg"
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-header_pages:
-  - index.markdown
-  - plan.markdown
-  - Gallery.markdown
-  - Contact.markdown
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
 
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 2e5159  #80B3FF 18bc9c
+  # primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 1a3140 #FD6E8A
+  secondary-dark: 00081a #A2122F 233140
+
+# Footer settings
+footer:
+  # copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+  credits: Contact
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/horikoki_
+  - title: instagram
+    url: http://instagram.com/koki_mentalism_jp
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+  # - title: github
+  #   url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Fukuoka Japan
+
+# Credits content
+credits: 'Hori Kokiへの出演依頼、お問い合わせは
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSczOn9ij_jjLe-g-M388obvXedEwFoD92fltsy7Amn8VyjsVA/viewform?usp=sf_link" target="blank"><span>こちら</span></a>出張時のご質問等お気軽にお問い合わせください。 '
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+markdown: kramdown
+permalink: pretty
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
+
+collections:
+  projects:
+    output: true

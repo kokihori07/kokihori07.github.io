@@ -1,16 +1,11 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    
+    {{content}}
 
-<div class="home">
-  <!-- {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%} -->
-
-  {{ content }}
-
-  <!-- <div class="col-md-8">
-    <img src="{{page.image}}" class="w-100" alt="image of {{ page.title }}">
-  </div> -->
-
-</div>
+    {% include footer.html %}
+    {% include js.html %}
+    </body>
+</html>

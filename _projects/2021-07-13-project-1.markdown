@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2021-07-13
+img: hiroshima_hotel.jpeg
+alt: image-alt
+project-date: 7/13 2021
+client: Start Bootstrap
+project-title: リーガロイヤルホテル広島にて
+category: Report
+description: 大手石油系企業さまの懇親会で<br>出張メンタリズムパフォーマンス<br>レポートは<a href="https://ameblo.jp/herowood-entertainment/entry-12658073657.html"  target="blank"><span>こちら</span></a>
+---
